@@ -1,16 +1,13 @@
-### Hi there 👋
+<img width="auto" src="https://github.com/tgmarinho/tgmarinho/blob/master/banner.png">
 
-<!--
-**ferox/ferox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Fernando dos Santos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Olá pessoal 👋
+Sou apaixonado por resolver problemas utilizando a programação.
+Sou um FullStack Developer :computer:
+
+ :rocket:  &nbsp; Estou trabalhando na **Life Tecnologia & Consultoria e Engenheiro de Software na InfraBrasil**
+ <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React e também uso o Framework Laravel no meu dia-a-dia
+ <br/> :computer: &nbsp; Minha stack: , AdminLTE, Node.js e Laravel
+ <br/> 💬  &nbsp; Sobre mim: Sou especialista em tecnologias Open Source, asssito seriados no Netflix e filmes no PopcornTime (pirateando tudo)
