@@ -1,4 +1,4 @@
-<img width="auto" src="https://github.com/tgmarinho/tgmarinho/blob/master/banner.png">
+<img width="auto" src="https://fedoraproject.org/w/uploads/c/c5/Artwork_PromoBanners_fedora-by-night-banner.png">
 
 
 # Fernando dos Santos
