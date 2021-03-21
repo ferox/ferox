@@ -7,7 +7,7 @@
 Sou apaixonado por resolver problemas utilizando a programação.
 Sou um FullStack Developer :computer:
 
- :rocket:  &nbsp; Estou trabalhando na **Life Tecnologia & Consultoria e como Engenheiro de Software na InfraBrasil**
- <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React e também uso o Framework Laravel no meu dia-a-dia
- <br/> :computer: &nbsp; Minha stack: AdminLTE, React, Node.js e Laravel
+ :rocket:  &nbsp; Estou trabalhando na **CI&T e na InfraBrasil como Engenheiro de Software**
+ <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React e Bootstrap e também uso o Framework Laravel e o CMS Drupalno meu dia-a-dia
+ <br/> :computer: &nbsp; Minha stack: AdminLTE, React, Bootstarp/Barrio, Node.js, Laravel e Drupal
  <br/> 💬  &nbsp; Sobre mim: Sou especialista em tecnologias Open Source, asssito seriados no Netflix e filmes no PopcornTime (pirateando tudo). Sou também o Embaixador do Projeto Fedora
