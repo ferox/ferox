@@ -1,4 +1,4 @@
-<img width="auto" src="https://fedoraproject.org/w/uploads/c/c5/Artwork_PromoBanners_fedora-by-night-banner.png">
+![fedora-project-default-banner](https://user-images.githubusercontent.com/7634766/122687829-fb17e180-d1ee-11eb-8288-9e78d662f365.png)
 
 
 # Fernando dos Santos
