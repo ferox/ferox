@@ -13,4 +13,5 @@ Sou um FullStack Developer :computer:
 <br/><br/><br/>
 ### Copiar não é roubar!!!!!!
 <br/>
-[<img src="https://i.ytimg.com/vi_webp/Fjp8nNKRiFs/maxresdefault.webp" width="50%">](https://youtu.be/Fjp8nNKRiFs)
+<img src="https://i.ytimg.com/vi_webp/Fjp8nNKRiFs/maxresdefault.webp" width="50%">
+https://youtu.be/Fjp8nNKRiFs
